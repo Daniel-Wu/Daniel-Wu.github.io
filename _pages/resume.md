@@ -192,7 +192,38 @@ layout: splash
 
     <hr/>
 
+	<h2>Publications</h2>
+	{% for item in site.data.cv.publications %}
+    <div class="row">
+        <div class="col-xs-6 nohref"><h3><a href="{{ item.url }}"><strong>{{ item.title }}</strong></a>
+        </h3>
+        </div>
+
+		<p>
+		    <b>{{ item.author }}</b>
+			<br/>
+            <em>{{ item.journal }}</em>
+            {% if item.volume %}, vol. {{ item.volume }}{% endif %}
+			{% if item.number %}, no. {{ item.number }}{% endif %}
+			{% if item.pages %}, pp. {{ item.pages }}{% endif %}.
+			{% if item.year %}, {{ item.year }}{% endif %}. 
+            {% if item.doi %}
+              <a href="http://dx.doi.org/{{ item.doi }}">
+                doi: {{ item.doi }}
+              </a>
+            {% endif %}
+        </p>
+
+    </div>
+
+    <br/>
+    {% endfor %}
+
+    <hr/>
+
 </div>
 
 </body>
 </html>
+
+

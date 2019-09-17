@@ -132,3 +132,20 @@ awards:
    position: 3rd Place
    year: 2018
    description: "Built Android app with Kotlin for crowdsourced reporting of human trafficking in the Bay Area."
+
+publications:
+  - title: "Energy oversupply to tissues: a single mechanism possibly underlying multiple cancer risk factors"
+    author: "Wu, Daniel J and Aktipis, Athena and Pepper, John W"
+    title: "Energy oversupply to tissues: a single mechanism possibly underlying multiple cancer risk factors"
+    journal: "Evolution, Medicine, and Public Health"
+    volume: "2019"
+    number: "1"
+    pages: "9-16"
+    year: "2019"
+    month: "01"
+    abstract: "Several major risk factors for cancer involve vascular oversupply of energy to affected tissues. These include obesity, diabetes and chronic inflammation. Here, we propose a potential mechanistic explanation for the association between energy oversupply and cancer risk, which we call the metabolic cancer suppression hypothesis: We hypothesize that oncogenesis is normally suppressed by organismal physiology that regulates and strictly limits normal energy supply to somatic cells, and that this protection is removed by abnormal oversupply of energy.We evaluate this hypothesis using a computational model of somatic cell evolution to simulate experimental manipulation of the vascular energy supply to a tissue. The model simulates the evolutionary dynamics of somatic cells during oncogenesis.In our simulation experiment, we found that under plausible biological assumptions, elevated energy supply to a tissue led to the evolution of elevated energy uptake by somatic cells, leading to the rapid evolution of both defining traits of cancer cells: hyperproliferation, and tissue invasion.Our results support the hypothesis of metabolic cancer suppression, suggesting that vascular oversupply of energetic resources to somatic cells removes normal energetic limitations on cell proliferation, and that this accelerates cellular evolution toward cancer. Various predictions of this hypothesis are amenable to empirical testing, and have promising implications for translational research toward clinical cancer prevention."
+    issn: "2050-6201"
+    doi: "10.1093/emph/eoz004"
+    url: "https://doi.org/10.1093/emph/eoz004"
+    eprint: "http://oup.prod.sis.lan/emph/article-pdf/2019/1/9/27867756/eoz004.pdf"
+

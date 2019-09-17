@@ -9,7 +9,3 @@ classes: wide
 header:
   overlay_image: /assets/images/wheat_banner.jpg
 ---
-
-{% for post in site.projects %}
-  {% include archive-single.html %}
-{% endfor %}

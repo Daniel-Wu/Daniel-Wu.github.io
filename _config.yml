@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Wu"
-  avatar           : "assets/images/Headshot.JPG"
+  avatar           : "/assets/images/Headshot.jpg"
   bio              : "Hi! I'm a undergrad at Stanford University double majoring in Math and Computer Science, working on applications of machine learning to medicine."
   location         : "Stanford, CA"
   email            : "dwubusiness@gmail.com"

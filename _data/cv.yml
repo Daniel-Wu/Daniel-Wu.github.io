@@ -1,114 +1,134 @@
-name: John Doe
-home: jdoe.com
-email: jdoe@gmail.com
+name: Daniel Wu
+email: dwubusiness@gmail.com
 summary:
- text: Magic maker and a hero of yours.
-
-objective:
- text: Seeking to contribute blood, sweat, and tears. That is all.
+ text: Student at Stanford University interested in solving big problems in medicine with machine learning.
 
 skills:
+ - name: Domains
+   items: 
+    - name: Oncology
+    - name: Gait
+    - name: Cardiology
+    - name: Generative Modelling
+    - name: Computer Vision
+    - name: Deep Learning
  - name: Languages
    items:
-    - name: JavaScript
     - name: Python
+    - name: Javascript
     - name: Java
     - name: C++
-    - name: SQL
- - name: Backend
-   items:
-    - name: Node
-    - name: Django
- - name: Frontend
-   items:
-    - name: AngularJS
-    - name: BackboneJS
-    - name: D3
-    - name: JQuery
-    - name: ExtJS
- - name: Standards
-   items:
-    - name: Websockets
-    - name: HTML5 Canvas
-    - name: CSS3
- - name: Testing
-   items:
-    - name: Mocha
-    - name: Karma
-
- - name: Databases
-   items:
-    - name: MongoDB
-    - name: PostgreSQL
-    - name: PostGIS
-    - name: Redis
- - name: Platforms
-   items:
-    - name: AWS
-    - name: Cloud Foundry
-    - name: Digital Ocean
+    - name: MatLab
  - name: Mobile
    items:
-    - name: Android
-    - name: HTML5 Hybrid
- - name: CM
-   items:
-    - name: Git
-    - name: Subversion
+    - name: Android (Kotlin)
+    - name: React Native
 
 professional:
- - name: Acme Inc.
-   link: http://acme.com
-   location: Nowhere, NY
-   start: 10/1979
+ - name: Ashley Lab
+   link: https://ashleylab.stanford.edu/
+   location: Stanford, California
+   start: Sept. 2018
    end: Present
-   title: Code Monkey
-   summary: Been on this sinking ship since before the internet.
-   projects:
+   title: Machine Learning Research Fellow
+   summary: "Developing LSTMs and CNNs with Keras on TensorFlow, with gait accelerometry. Used to predict demographic information and cardiovascular risk for 50k+ iOS users."
 
-    - name: Koala DSP
-      description: Implemented a unique DSP algorithm to mimic koala bears.
-      skills:
-       - Hardcore C
-       - Hardcore DSP
+ - name: UnifyID Co.
+   link: https://unify.id
+   location: Redwood City, California
+   start: Jun. 2019
+   end: Sept. 2019
+   title: Machine Learning Intern
+   summary: "Implemented, trained, and shipped custom deep neural networks for gait identification in Tensorflow, which outperformed previous models by 20%. Developed model ensembling strategies which decreased error by 80%."
 
-    - name: First Company Website
-      link: http://acme.com/
-      description: Learned HTML and rocked everyone's world.
-      skills:
-       - HTML
-       - Not CSS
+ - name: National Cancer Institute
+   link: https://www.cancer.gov
+   location: Bethesda, Maryland
+   start: Jun. 2017
+   end: Sept. 2018
+   title: Research Fellow
+   summary: "Built an agent-based Python model of carcinogenesis, to target emergent processes with adaptive therapy. Model published and used to inform Phase I clinical trials."
+
+ - name: UCF Mathematics Department
+   link: https://sciences.ucf.edu/math/
+   location: Orlando, Florida
+   start: Sept. 2015
+   end: Jun. 2017
+   title: Research Intern
+   summary: "Built epidemiological models of Zika spread in Florida in Python, used to inform pest control."
+
+ - name: Moffit Cancer Center
+   link: http://labpages.moffitt.org/imo/hip-imo/
+   location: Tampa, Florida
+   start: Jun. 2016
+   end: Sept. 2016
+   title: Research Intern
+   summary: "Built MatLab models to optimize adaptive therapy protocols. Models used to determine dosing in a clinical trial on late-stage prostate cancer."
 
 
- - name: Buford University
-   link: http://buu.edu
-   location: Elseware, OK
-   start: 12/1966
-   end: 10/1979
-   title: Lab Rat
-   summary: Responsible for labs and stuff.
-   projects:
 
-    - name: Punch Card Optimization
-      description: Since I coded like the wind (even then), I needed a better way to write software
-      skills:
-       - Diplomacy
-       - Reading
-       - Writing
-
+volunteering:
+  - name: Student Instructor
+    start: Jan. 2019
+    end: Present
+    link: https://cs4good.com/#section-programs
+    summary: "Cotaught CS 106S: Computer Science for Social Good, and CS 21SI: AI for Social Good."
 
 education:
  colleges:
-  - name: Buford University
-    link: http://buu.edu/
-    year: 1966
-    degree: BSCS
+  - name: Stanford University
+    link: https://www.stanford.edu
+    year: 2021
+    degree: "BS: CS and Math"
 
-certsAndAwards:
- - name: Advanced Rubber Necking
-   year: 2000
- - name: Crimes and Indigestion
-   year: 2007
+extracurriculars:
+  - name: CS + Social Good
+    title: Core Member
+    start: Sept. 2018
+    end: Present
+    link: https://cs4good.com/
+    summary: "Organized AI workshops for the Stanford community."
+  - name: Asia-Pacific Entreprenuership Organization
+    title: Core Member
+    start: Sept. 2018
+    end: Present
+    link: http://ases.stanford.edu/
+    summary: "Developed and pitched Pango, a gamified online reviews platform for doctors, to pre-seed VCs. Organized ASES Summit 2018, a week-long bootcamp for international entreprenuers."
+  - name: Stanford Debate
+    title: Travel Team
+    start: Sept. 2018
+    end: Sept. 2019
+    link: https://debate.stanford.edu/
+    summary: "Competed in British Parliamentary and Policy, at several national and international tournaments."
+  - name: Stanford Effective Altruism
+    title: Executive Board Member
+    start: Sept. 2018
+    end: Present
+    link: https://web.stanford.edu/group/ea/
+    summary: "Awarded Arete Fellowship, organized critical thinking workshops and talks."
 
-clearance:
- name: Aspiring
+projects:
+  - name: LiveWell
+    link: https://blog.codingitforward.com/introducing-coding-it-forwards-inaugural-build-cohort-2edfc448d42d
+
+awards:
+ - name: USA Biology Olympiad
+   position: "National Finalist, Silver Medalist"
+   year: 2017
+   description: Ranked 6th in the nation of all high schoolers in the field of biology.
+ - name: Regeneron Science Talent Search
+   position: National Semifinalist
+   year: 2018
+   description: Ranked in the top 300 in the nation's premier high school science research competition.
+ - name: Japan Sustainable Innovation Hackathon
+   position: Grand Prize
+   year: 2018
+   description: Designed and pitched a ML aggregator for tsunami mitigation and reconstruction.
+ - name: Treehacks
+   position: Best Health Data Hack
+   year: 2018
+   description: "Built LiveWell, a Firebase enabled React Native app for assisting refugees find clean water. Accepted to Coding it Forward's Build accelerator."
+ - name: Stanford Social Impact Hackathon
+   position: 3rd Place
+   year: 2018
+   description: "Built Android app with Kotlin for crowdsourced reporting of human trafficking in the Bay Area."

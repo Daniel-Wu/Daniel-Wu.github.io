@@ -280,6 +280,8 @@ collections:
     output: true
   portfolio:
     output: true
+  writing:
+    output: true
 
 # Defaults
 defaults:

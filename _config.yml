@@ -313,3 +313,12 @@ defaults:
       layout: single
       author_profile: false
       share: true
+
+  # _writing
+  - scope:
+      path: ""
+      type: writing
+    values:
+      layout: single
+      author_profile: false
+      share: true

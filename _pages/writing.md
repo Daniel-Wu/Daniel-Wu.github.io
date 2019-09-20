@@ -1,9 +1,6 @@
 ---
 permalink: /writing/
 title: "Writing"
-layout: collection
-collection: writing
-entries_layout: grid
 classes: wide
 
 header:
@@ -19,3 +16,7 @@ Philosophy rants
 Friendship/consulting/authenticity/stanford
 Scholastic Essay
 -->
+
+<div style="position: fixed; bottom: 10px; right: 10px;">
+	{% include button.html button_name="Write." url="../real-writing" %}
+</div>

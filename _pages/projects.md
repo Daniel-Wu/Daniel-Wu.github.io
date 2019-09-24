@@ -14,7 +14,5 @@ Here are a couple of things I've spent some time on.
 
 <!--
 Still to write up:
-Adaptive Therapy Simulations
-NCI project
 SmartBin??
 -->

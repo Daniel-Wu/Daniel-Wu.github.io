@@ -26,3 +26,6 @@ Detection rates and localization performance on sperm that has a relatively norm
 qualitively align with embryologist level performance. 
 
 ![Example Sperm Detection](/assets/images/sperm_model_preds.png)
+
+Here's a poster we presented on our (prelimiary) work.
+<object data="/assets/posters/CS231N_Final_Poster.pdf" width="1000" height="1000" type='application/pdf'/>

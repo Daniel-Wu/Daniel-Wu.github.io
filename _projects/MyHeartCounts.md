@@ -20,5 +20,5 @@ and gyroscope are collected.
 
 I'm working on training deep convolutional neural networks for the inference of demographic information and cardiovascular risk from gait. 
 
-Here's a poster we presented on our (prelimiary) work.
+Here's a poster we presented on our work.
 <object data="/assets/posters/BioX_Poster.pdf" width="1000" height="1000" type='application/pdf'/>

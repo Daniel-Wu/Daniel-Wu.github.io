@@ -23,10 +23,7 @@ Preliminary research has demonstrated significant benefits; however, the current
 literature lacks understanding of the tumor microdynamics and tests the feasibility
 of adaptive therapy, often by using simple, highly suboptimal treatment protocols.
 
-
-Via an agent-based cellular automata model, we observed spatial dynamics of the
-intra-tumoral ecosystem in late-stage metastatic castration-resistant prostate
-cancer. We then use deterministic models and evolutionary principles to create and
+During a summer in Moffitt Cancer Center's [Integrated Mathematical Oncology Program](https://labpages.moffitt.org/imo/), I built an agent-based cellular automata model, which was used to observe spatial dynamics of the intra-tumoral ecosystem in late-stage metastatic castration-resistant prostate cancer. We then use deterministic models and evolutionary principles to create and
 optimize various treatment protocols utilizing a combination of various therapies
 that leads to the most stable, controlled, cancer state, one that we theorize could be
 maintained indefinitely. We both confirm adaptive therapy's effectiveness in

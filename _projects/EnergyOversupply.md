@@ -33,7 +33,7 @@ We built an agent-based model of tissue, and simulated the development of cancer
 resource access conditions. We found that resource oversupply significantly expedites clonal
 expansion and metastasis. 
 
-This research was published in 2019 in *Evolutionary Medicine and Public Health*.
+This research was published in 2019 in *Evolutionary Medicine and Public Health*, and can be found [here.](https://academic.oup.com/emph/article/2019/1/9/5298315)
 
 Here's a poster we presented on the work.
 <object data="/assets/posters/NIH_Poster.pdf" width="1000" height="1000" type='application/pdf'/>

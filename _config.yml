@@ -9,11 +9,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Thoughts"
+title                    : "Sententious"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Trying to appear wise in a way that is annoying"
 name                     : "Daniel Wu"
-description              : "An amazing website."
+description              : "A website."
 url                      : "https://perplector.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "perplector/perplector.github.io"
@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Daniel Wu"
   avatar           : "/assets/images/Headshot.jpg"
-  bio              : "Hi! I'm a undergrad at Stanford University studying Math and Computer Science, working on applications of machine learning to medicine."
+  bio              : "Hi! I'm a undergrad at Stanford studying Math and Computer Science. I want to change machine learning into impact."
   location         : "Stanford, CA"
   email            : "dwubusiness@gmail.com"
   links:

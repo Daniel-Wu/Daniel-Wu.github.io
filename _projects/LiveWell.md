@@ -20,7 +20,7 @@ We decided to address a major root cause: poor water well maintenance. By pullin
 We then built an application in React Native that allowed users to report new water wells, 
 make updates to the quality of current ones, and report any water well issues all in real-time.
 
-This project began as a hack done at TreeHacks 2019, and won the prize for best usage of public safety data.
+This project began as a hack done at TreeHacks 2019, and won the prize for best usage of public safety data. Check out our [Devpost](https://devpost.com/software/livewell-a531bq)!
 Afterwards, this project graduated from Coding It Forward's [Build accelerator](https://blog.codingitforward.com/introducing-coding-it-forwards-inaugural-build-cohort-2edfc448d42d).
 
 ![Livewell Map](/assets/images/livewell_map.jpg)

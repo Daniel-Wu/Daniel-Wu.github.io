@@ -20,5 +20,5 @@ The model was trained on roughly 36000 earthquakes that occured in Ridgecrest, C
 
 ![Example Earthquake Projection](/assets/images/deeptremor_ex.png)
 
-Here's a poster we presented on our work.
+This work was presented as a talk at the 2020 Annual Meeting of the Seismological Society of Ameria. Here's a poster we presented on our work.
 <object data="/assets/posters/DeepTremor_Poster.pdf" width="1000" height="1000" type='application/pdf'/>

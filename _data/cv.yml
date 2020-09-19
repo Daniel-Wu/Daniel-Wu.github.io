@@ -1,4 +1,4 @@
-name: Daniel Wu
+name: Daniel J. Wu
 email: dwubusiness@gmail.com
 summary:
  text: Student at Stanford University interested in solving big problems in medicine with machine learning.
@@ -25,6 +25,22 @@ skills:
     - name: React Native
 
 professional:
+ - name: Two Sigma Investments
+   link: https://www.twosigma.com/
+   location: New York City, New York
+   start: Jun. 2020
+   end: Dec. 2020
+   title: Quantitative Research Intern
+   summary: "Built traditional and deep-learning models for the prediction of index futures from large newsfeeds."
+
+ - name: Stanford Vision Lab
+   link: http://svl.stanford.edu/
+   location: Stanford, California
+   start: Dec. 2019
+   end: Present
+   title: Computer Vision Research Fellow
+   summary: "I work on various projects with the Partnership on AI-assisted care. Using pytorch, we build at-home elderly care systems for automated health monitoring. We are also making advances in differential privacy and federated learning."
+
  - name: Ashley Lab
    link: https://ashleylab.stanford.edu/
    location: Stanford, California
@@ -124,19 +140,26 @@ awards:
    position: Grand Prize
    year: 2018
    description: Designed and pitched a ML aggregator for tsunami mitigation and reconstruction.
- - name: Treehacks
-   position: Best Health Data Hack
-   year: 2018
-   description: "Built LiveWell, a Firebase enabled React Native app for assisting refugees find clean water. Accepted to Coding it Forward's Build accelerator."
- - name: Stanford Social Impact Hackathon
+- name: Stanford Social Impact Hackathon
    position: 3rd Place
    year: 2018
    description: "Built Android app with Kotlin for crowdsourced reporting of human trafficking in the Bay Area."
+ - name: Treehacks
+   position: Best Health Data Hack
+   year: 2019
+   description: "Built LiveWell, a Firebase enabled React Native app for assisting refugees find clean water. Accepted to Coding it Forward's Build accelerator."
+ - name: Treehacks
+   position: Most Ethically Engaged Hack, Best Computer Vision for Medical Access Hack
+   year: 2020
+   description: "Built Soteria, a privacy-preserving telemedicine platform for refugees"
+ - name: HCL Better Health Hackathon
+   position: Best Medical Treatment Hack
+   year: 2020
+   description: "Built Protego, a logistics platform for predictive allocation of medical supplies to nursing homes impacted by coronavirus."
 
 publications:
   - title: "Energy oversupply to tissues: a single mechanism possibly underlying multiple cancer risk factors"
     author: "Wu, Daniel J and Aktipis, Athena and Pepper, John W"
-    title: "Energy oversupply to tissues: a single mechanism possibly underlying multiple cancer risk factors"
     journal: "Evolution, Medicine, and Public Health"
     volume: "2019"
     number: "1"
@@ -148,4 +171,15 @@ publications:
     doi: "10.1093/emph/eoz004"
     url: "https://doi.org/10.1093/emph/eoz004"
     eprint: "http://oup.prod.sis.lan/emph/article-pdf/2019/1/9/27867756/eoz004.pdf"
-
+  - title: "BiPedalNet: Binarized Neural Networks for Resource-Constrained On-Device Gait Identification"
+    author: "Wu, Daniel J and Datta, Avoy and Prabhu, Vinay U"
+    journal: "Proceedings of Workshop on Practical Machine Learning for Developing Countries at ICLR"
+    year: "2020"
+    abstract: "Human re-identification through gait analysis is a promising application of discriminative neural networks -- particularly due to the ubiquitousness of the primary sources of gait acceleometry, in-pocket cellphones. We show that binarized neural networks can act as robust discriminators; maintaining both an acceptable level of accuracy while also dramatically decreasing memory requirements, thereby enabling on-device inference."
+    url: "https://pml4dc.github.io/iclr2020/papers/PML4DC2020_32.pdf"
+  - title: "Afro-MNIST: Synthetic Generation of MNIST-style datasets for Low-Resource Languages"
+    author: "Wu, Daniel J and Yang, Andrew C and Prabhu, Vinay U"
+    journal: "Proceedings of Workshop on Practical Machine Learning for Developing Countries at ICLR"
+    year: "2020"
+    abstract: "We present Afro-MNIST, a set of synthetic MNIST-style datasets for four orthographies used in Afro-Asiatic and Niger-Congo languages: Ge`ez (Ethiopic), Vai, Osmanya, and N'Ko. These datasets serve as ``drop-in'' replacements for MNIST. We also describe and open-source a method for synthetic MNIST-style dataset generation from single examples of each digit. These datasets can be found at https://github.com/Daniel-Wu/AfroMNIST. We hope that MNIST-style datasets will be developed for other numeral systems, and that these datasets vitalize machine learning education in underrepresented nations in the research community."
+    url: "https://pml4dc.github.io/iclr2020/papers/PML4DC2020_34.pdf"

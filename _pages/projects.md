@@ -10,9 +10,4 @@ header:
   overlay_image: /assets/images/wheat_banner.jpg
 ---
 
-Here are a couple of things I've spent some time on.
-
-<!--
-Still to write up:
-SmartBin??
--->
+Here are random things I've spent time on!

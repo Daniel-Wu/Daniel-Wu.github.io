@@ -14,18 +14,18 @@ title_separator          : "-"
 subtitle                 : "Trying to appear wise in a way that is annoying"
 name                     : "Daniel Wu"
 description              : "A website."
-url                      : "https://perplector.github.io"
+url                      : "https://Daniel-Wu.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "perplector/perplector.github.io"
+repository               : "Daniel-Wu/Daniel-Wu.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "daniel-wu.disqus.com"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -102,19 +102,15 @@ analytics:
 author:
   name             : "Daniel Wu"
   avatar           : "/assets/images/Headshot.jpg"
-  bio              : "Hi! I'm a undergrad at Stanford studying Math and Computer Science. I want to change machine learning into impact."
+  bio              : "Hi! I'm a undergrad at Stanford studying Math and Computer Science."
   location         : "Stanford, CA"
-  email            : "dwubusiness@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:dwubusiness@gmail.com
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/daniel.wu.399488"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Perplector"
+      url: "https://github.com/Daniel-Wu"
     - label: "ORCiD"
       icon: "fas fa-fw fa-scroll"
       url: "https://orcid.org/0000-0002-8537-6044/"
@@ -130,7 +126,7 @@ footer:
       url: "https://www.facebook.com/daniel.wu.399488"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/Perplector"
+      url: "https://github.com/Daniel-Wu"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/daniel-j-wu/"

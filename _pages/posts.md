@@ -8,3 +8,5 @@ header:
 ---
 
 If you came here for deep insight, well, sorry. Instead, have some superficially deep thoughts.
+
+*Disclaimer: I probably don't believe everything here -- some things are just thoughts I found interesting.*

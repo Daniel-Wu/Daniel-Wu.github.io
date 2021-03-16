@@ -1,0 +1,18 @@
+---
+title: "Common Sense"
+excerpt: "It makes a lot of sense."
+---
+
+Here's something I've noticed - lots of things are great in principle, but don't work out in practice. More specifically, I think that if you take any idea to its logical extreme, you end up in pretty strange places. My favorite place where this comes up is in ethical decisionmaking. 
+
+The classical example is utilitarian ethics, which falls prey to the repugnant conclusion - alternatively known as the mere addition problem, or the utility monster. Utilitarianism is a school of thought which simply says that the most ethical action is the one which maximizes utility, or "good stuff" in the world. 
+
+The utility monster thought experiment, first proposed by Nozick, argues that merely maximizing for "goodness" - say, happiness - could lead to situations which are grossly unjust, and against all reasonable notions of morality. Suppose that there is a serial killer, who would gain so much more happiness from killing people than each person would experience in the rest of their natural lives. Should society just let this serial killer kill everyone? Clearly not. And yet letting this serial killer go on this rampage would maximize the world's utility. 
+
+I don't think this phenomenon is unique to utilitarianism; in fact, you can stretch basically any ethical system to its logical extreme. If you're a deontologist, you can start asking questions like, "If lying isn't a universalizable rule, then surely I must tell the Gestapo at my door the truth about the Jewish refugees hiding in my attic". If you're a Hobbsian, you must stand by your government as it commits atrocities. Similarly, if you're a Lockean, you'll have to support a government seized by populists, jingoists, and endemic racism. Rawlsians must be happy to give the very shirt off their back in the pursuit of maximin, while followers of Nozick must square their strong belief in individual liberty and property against the material suffering of the starving on the street.
+
+Yes, I've just grossly paraphrased, caricatured, and possibly misrepresented millenia of ethical traditions in a single paragraph. The ethics nerds amongst you might point out, "Daniel! Don't you know that suffering-minimizing utilitarianism, or modern deontological theories, dodge these criticisms?". The broader point still stands: any hard-and-fast conception of ethics can be made to fail - to lead to an obviously abhorrent conclusion - in some contrived set of circumstances.
+
+The issue is, of course, our "gut-check" morality is difficult to boil down to a finite set of rules.  Yet humans seem to operate quite well, even on this flawed bedrock. I think the reason for this is theories aren't perfect, but they're "good enough". I also think that humans rarely make decisions according to a rigid ethical framework, or even to a set decision tree; instead, we mash together ethics with thoughts, urges, whims, social pressures, and whatever our stomach is saying, to produce this mysterious entity known as common sense. 
+
+In some ways, common sense is accidental ethical modesty - taking the consensus of a slew of (hopefully reasonable) factors in order to make a (hopefully reasonable) conclusion. And in the humdrum of day-to-day life, we make thousands of straightforward decisions. Rarely do we encounter the Gestapo, the utility monster, or a bunch of folks tied in front of a speeding trolley. Outside of these edge cases, most ethical frameworks seem reasonable, and so a common sense composed of a jumble of these frameworks should also be reasonable. Just use common sense, and have the common sense to know when not to use common sense.
